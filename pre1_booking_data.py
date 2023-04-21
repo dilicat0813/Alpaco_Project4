@@ -299,7 +299,7 @@ get_ipython().run_cell_magic('writefile', "'01start.py'", '#!/usr/bin/python\n# 
 
 
 #히히 머지하꺼야
-
+#이건 민경환이 쓰는 머지테스트용 잡소립니다. 
 
 # In[ ]:
 
