@@ -327,6 +327,6 @@ get_ipython().run_cell_magic('writefile', "'01start.py'", '#!/usr/bin/python\n# 
 
 # In[ ]:
 
-ㅇㄹㅇㄹㄴㄹㄴㅇㄹㄴㅇㄹ
+# ㅇㄹㅇㄹㄴㄹㄴㅇㄹㄴㅇㄹㅀㅀㅇㅀ ㅇㄹㄴㅇㅀㄴㅇㄴㅇ혿ㄱ혿옥소
 
 
