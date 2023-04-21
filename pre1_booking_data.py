@@ -298,7 +298,7 @@ get_ipython().run_cell_magic('writefile', "'01start.py'", '#!/usr/bin/python\n# 
 # In[ ]:
 
 
-
+#히히 머지하꺼야
 
 
 # In[ ]:
