@@ -302,7 +302,7 @@ get_ipython().run_cell_magic('writefile', "'01start.py'", '#!/usr/bin/python\n# 
 #이건 민경환이 쓰는 머지테스트용 잡소립니다. 
 #히히 시공이 최고야!
 #포크로 찍어버릴꺼야!
-
+# 포크 무서워 찍찌마
 # In[ ]:
 
 
