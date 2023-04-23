@@ -26,3 +26,5 @@ report = classification_report(y_test, y_pred)
 
 #importance
 importance = cmodel.feature_importances_
+
+#save --> model폴더에 저장하고 싶어 --> load --> predict excercise 
