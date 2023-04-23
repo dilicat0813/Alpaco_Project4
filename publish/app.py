@@ -112,12 +112,14 @@ f1_score_df = pd.read_csv('data/f1_score.csv')
 # In[3]:
 
 
+#모델 평가 부분 불러오기
+from cb_model import train_score, test_score, y_pred, report, importance, X, savemodel
+savemodel
+
 #CatBoost 학습 모델 load Area
 model = CatBoostClassifier()
-model.load_model('model/catboost_model_multi.dump') 
+model.load_model('model/model.dump') 
 
-#모델 평가 부분 불러오기
-from cb_model import train_score, test_score, y_pred, report, importance, X
 
 # In[4]:
 
