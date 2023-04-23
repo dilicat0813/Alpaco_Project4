@@ -26,7 +26,3 @@ report = classification_report(y_test, y_pred)
 
 #importance
 importance = cmodel.feature_importances_
-
-#save model
-sm = cmodel.save_model('catboost_model_multi.dump')
-sm
