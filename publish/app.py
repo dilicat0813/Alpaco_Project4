@@ -777,6 +777,6 @@ def predict(n_clicks, input1, input2, input3, input4, input5):
 
 # APP excute
 if __name__ == '__main__':
-    app.run_server(debug=False, mode='inline', host='127.0.0.1')
+    app.run_server(debug=False)
     
 
